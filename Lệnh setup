@@ -1,0 +1,1 @@
+pkg install git && git clone https://github.com/lcddz28/vss.git && clear && cd vss && chmod a+x 4g && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd
